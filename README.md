@@ -17,7 +17,7 @@ Please don't tell that last part to my relatives though. They get enough free IT
     - Linux
     - Mechanical keyboards
     - Waifus
-    - Amogus memes
+    - Amogus memes ඞ
 - 🔬 Learning:
   - Rust
   - Apollo GraphQL Server
