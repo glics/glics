@@ -8,7 +8,8 @@ Please don't tell that last part to my relatives though. They get enough free IT
 
 ---
 
-- ❤️ Love: 
+❤️ Love: 
+
   - Typescript & ts-node
   - Svelte
   - React & Next.js
@@ -18,16 +19,25 @@ Please don't tell that last part to my relatives though. They get enough free IT
     - Mechanical keyboards
     - Waifus
     - Amogus memes ඞ
-- 🔬 Learning:
+
+🔬 Learning:
+
   - Rust
   - Apollo GraphQL Server
-- 💭 Want to learn: 
-  - AWS (EC2, S3 DynamoDB, Lambda)
+  - AWS Basics
+
+💭 Want to learn:
+
+  - AWS (EC2, S3, Lambda)
   - Vercel Serverless
   - Python
-- 🖥️ Using: 
+
+🖥️ Using: 
+
   - EndeavourOS on Thinkpad T14s
-- 😔 Dislike: 
+
+😔 Dislike: 
+
   - PHP
   - Angular
 <!--
