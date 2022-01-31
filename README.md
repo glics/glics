@@ -10,7 +10,7 @@ Please don't tell that last part to my relatives though. They get enough free IT
 
 ❤️ Love: 
 
-  - Typescript & ts-node
+  - Typescript & ts-node (Deno: Soon™)
   - Svelte
   - React & Next.js
   - TypeORM & PostgreSQL
@@ -34,12 +34,13 @@ Please don't tell that last part to my relatives though. They get enough free IT
 
 🖥️ Using: 
 
-  - EndeavourOS on Thinkpad T14s
+  - EndeavourOS on Thinkpad T14
 
 😔 Dislike: 
 
   - PHP
   - Angular
+
 <!--
 
 TODOS:
