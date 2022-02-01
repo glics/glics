@@ -14,23 +14,29 @@ Please don't tell that last part to my relatives though. They get enough free IT
   - Svelte
   - React & Next.js
   - TypeORM & PostgreSQL
+  - Docker
   - **Bonus Entries**:
     - Linux
     - Mechanical keyboards
     - Waifus
     - Amogus memes ඞ
+    - Toofu
 
 🔬 Learning:
 
-  - Rust
+  - Monorepos
+  - Traefik
   - Apollo GraphQL Server
   - AWS Basics
 
 💭 Want to learn:
 
+  - Rust & Go
+  - Grafana + Loki
   - AWS (EC2, S3, Lambda)
   - Vercel Serverless
   - Python
+  - Unity Engine
 
 🖥️ Using: 
 
