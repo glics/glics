@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, world! 🪐</h1>
 
 <p align="center">
-<img src="https://forthebadge.com/images/badges/uses-badges.svg"> <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"> <img src="https://raw.githubusercontent.com/glics/glics/main/media/trigger-warning-spaghetti-code.svg">
+<img src="https://forthebadge.com/images/badges/uses-badges.svg"> <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"> <img src="https://raw.githubusercontent.com/glics/glics/main/media/uses-arch-btw.svg">
 <p/>
 
 I'm Giuseppe Careri, but you can call me Glics, a ${currentYear - 1999} years old web developer from Italy.
