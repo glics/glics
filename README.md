@@ -18,7 +18,8 @@ Please don't tell that last part to my relatives though. They get enough free IT
   - Svelte
   - React & Next.js
   - TypeORM & PostgreSQL
-  - Docker
+  - Docker & Docker Swarm
+  - Traefik
   - **Bonus Entries**:
     - Linux
     - Mechanical keyboards
@@ -29,14 +30,13 @@ Please don't tell that last part to my relatives though. They get enough free IT
 🔬 Learning:
 
   - Monorepos
-  - Traefik
+  - Grafana + Loki
   - Apollo GraphQL Server
   - AWS Basics
 
 💭 Want to learn:
 
   - Rust & Go
-  - Grafana + Loki
   - AWS (EC2, S3, Lambda)
   - Vercel Serverless
   - Python
